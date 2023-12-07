@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <title>Aquaflask</title>
+    <link
+      rel="icon"
+      href="https://cdn-icons-png.flaticon.com/512/5479/5479020.png"
+      type="image/x-icon"
+    />
+  </head>
+<body>
+    <header class="hero">
+      <div class="container spacing">
+        <h1 class="primary-title">
+          Drink <span style="color: red">more.</span> Live
+          <span style="color: aqua">more!</span>
+        </h1>
+        <p>
+          Discover the benefits of optimal hydration. We believe in the power of
+          hydration to transform lives!
+        </p>
+        <a href="#featured-product" class="btn">See what we have</a>
+      </div>
+    </header>
+    <main>
+      <section class="featured" id="featured-product">
+        <div class="container">
+          <h2 class="section-title">Featured Aquaflask</h2>
+          <div class="split">
+            <a href="#" class="featured__item">
+              <img
+                src="https://aquaflask.com/wp-content/uploads/2023/05/My-project-91-1024x1024.webp"
+                alt=""
+                class="featured__img"
+              />
+              <p class="featured__details">
+                <span class="price">P700</span>Moss Green
+              </p>
+            </a>
+            <a href="#" class="featured__item">
+              <img
+                src="https://aquaflask.com/wp-content/uploads/2023/05/My-project-82-1024x1024.webp"
+                alt=""
+                class="featured__img"
+              />
+              <p class="featured__details">
+                <span class="price">P799</span>Plumpy Peach
+              </p>
+            </a>
+            <a href="#" class="featured__item">
+              <img
+                src="https://aquaflask.com/wp-content/uploads/2023/05/My-project-2023-05-12T134907.605.webp"
+                alt=""
+                class="featured__img"
+              />
+              <p class="featured__details">
+                <span class="price">P850</span>Space Black
+              </p>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section id="product">
+        <h2 class="title">Choose your flask colors</h2>
+        <div class="container-product">
+          <div
+            style="
+              background-image: url('https://goaquaflask.com/wp-content/uploads/2022/02/IMG_87052-768x768.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱650</span>Sienna Red
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflask.com/wp-content/uploads/2023/05/My-project-2023-05-12T114821.829.webp');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱550</span>Silver Steel
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://goaquaflask.com/wp-content/uploads/2021/08/AQF-40oz-Grape-1-300x300.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱850</span>Amethyst
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflask.com/wp-content/uploads/2022/12/STELLAR_topaz18oz-04-removebg-preview-1.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱790</span>Topaz
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://goaquaflask.com/wp-content/uploads/2021/08/AQF-40oz-Hunter-Green-1-300x300.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱850</span>Hunter Green
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://goaquaflask.com/wp-content/uploads/2021/08/AQF-18oz-Marine-Blue-1-300x300.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱650</span>Marine Blue
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflask.com/wp-content/uploads/2021/08/64_wyt1-768x768.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱1395</span>Arctic White
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://goaquaflask.com/wp-content/uploads/2021/12/22oz_flamingo_box-removebg-preview.png');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱700</span>Flamingo
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflask.com/wp-content/uploads/2023/05/My-project-47-1024x1024.webp');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱790</span>Rose Quartz
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflaskinstaller.iconvertwebsite.com/wp-content/uploads/2023/05/Tangerine_22oz-2-removebg-preview.webp');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱750</span>Tangerine
+            </p>
+          </div>
+          <div
+            style="
+              background-image: url('https://aquaflask.com/wp-content/uploads/2023/05/My-project-77.webp');
+            "
+          >
+            <p class="more_products_info">
+              <span class="price">₱750</span>Aquamarine
+            </p>
+          </div>
+        </div>
+      </section>
+      <section id="others">
+          <h1>Choose Your Flask Size</h1>
+            <div class="container-card">
+              <div class="content-section">
+                <div class="card">
+                  <img src="https://aquaflask.com/wp-content/uploads/2022/09/14.png">
+                    <h2>14 Oz</h2>
+                        <p>See details</p> 
+            </div>
+              <div class="card">
+          <img src="https://aquaflask.com/wp-content/uploads/2022/09/18.png">
+          <h2>18 Oz</h2>
+          <p>See details</p>
+          </div>
+          <div class="card">
+          <img src="https://aquaflask.com/wp-content/uploads/2022/09/22.png">
+          <h2>22 Oz</h2>
+          <p>See details</p>
+          </div>
+          <div class="card">
+            <img src="https://aquaflask.com/wp-content/uploads/2022/09/32.png">
+            <h2>32 Oz</h2>
+            <p>See details</p>
+            </div>
+            <div class="card">
+              <img src="https://aquaflask.com/wp-content/uploads/2022/09/40.png">
+              <h2>40 Oz</h2>
+              <p>See details</p>
+              </div>
+              <div class="card">
+                <img src="https://aquaflask.com/wp-content/uploads/2022/09/64.png">
+                <h2>64 Oz</h2>
+                <p>See details</p>
+                
+              
+            </div>
+          </div>
+      </section>
+      
+    </main>
+    
+  </body>
+</html>
